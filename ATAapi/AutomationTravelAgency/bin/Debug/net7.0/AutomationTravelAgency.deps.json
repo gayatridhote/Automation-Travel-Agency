@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AutomationTravelAgency/1.0.0": {
+        "dependencies": {
+          "AutomationTravelAgency.Business": "1.0.0",
+          "AutomationTravelAgency.Data": "1.0.0"
+        },
+        "runtime": {
+          "AutomationTravelAgency.dll": {}
+        }
+      },
+      "AutomationTravelAgency.Business/1.0.0": {
+        "dependencies": {
+          "AutomationTravelAgency.Data": "1.0.0"
+        },
+        "runtime": {
+          "AutomationTravelAgency.Business.dll": {}
+        }
+      },
+      "AutomationTravelAgency.Data/1.0.0": {
+        "runtime": {
+          "AutomationTravelAgency.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutomationTravelAgency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomationTravelAgency.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomationTravelAgency.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

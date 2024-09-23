@@ -1,0 +1,15 @@
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\bin\Debug\net7.0\AutomationTravelAgency.Business.deps.json
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\bin\Debug\net7.0\AutomationTravelAgency.Business.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\bin\Debug\net7.0\AutomationTravelAgency.Business.pdb
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\bin\Debug\net7.0\AutomationTravelAgency.Data.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\bin\Debug\net7.0\AutomationTravelAgency.Data.pdb
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.csproj.AssemblyReference.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.AssemblyInfo.cs
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.csproj.CopyComplete
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\refint\AutomationTravelAgency.Business.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\AutomationTravelAgency.Business.pdb
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Business\obj\Debug\net7.0\ref\AutomationTravelAgency.Business.dll

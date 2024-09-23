@@ -1,0 +1,12 @@
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\bin\Debug\net7.0\AutomationTravelAgency.Data.deps.json
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\bin\Debug\net7.0\AutomationTravelAgency.Data.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\bin\Debug\net7.0\AutomationTravelAgency.Data.pdb
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.csproj.AssemblyReference.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.AssemblyInfo.cs
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\refint\AutomationTravelAgency.Data.dll
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\AutomationTravelAgency.Data.pdb
+C:\Users\GDHOTE\Desktop\AutomationTravelAgency\Components\AutomationTravelAgency.Data\obj\Debug\net7.0\ref\AutomationTravelAgency.Data.dll
